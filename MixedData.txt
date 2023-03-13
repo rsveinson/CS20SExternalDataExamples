@@ -1,0 +1,13 @@
+*****************************
+Name:        Sveinson
+Class:       CS20S-00x
+Assignment:  Mixed Data File Example
+*****************************
+
+Name                 N1      N2      N3     Sum 
+jim                  34      45      56     135
+jen                  12      78      45     135
+jan                  66      44      22     132
+jon                 123     453       1     577
+Loki                  1       1       1       3
+End of Processing

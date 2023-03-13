@@ -1,0 +1,15 @@
+*****************************
+Name:        Sveinson
+Class:       CS20S-00x
+Assignment:  employee mixed data example
+*****************************
+
+Sang     Cho         $42,000.00  $808.00
+Jill     Grossman    $25,500.00  $490.00
+Jason    Jones       $26,000.00  $500.00
+Philip   Jorge       $28,000.00  $538.00
+Debra    Roberts     $42,000.00  $808.00
+Christa  Smith       $28,900.00  $556.00
+Tanya    White       $32,000.00  $615.00
+
+End of Processing
