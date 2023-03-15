@@ -7,7 +7,7 @@ import java.text.NumberFormat;
  *  Name:           sveinson
  *  Class:          CS20S
  * 
- *  Assignment:     Parsing exernal mixed data example
+ *  Assignment:     Parsing external mixed data example
  * 
  *************************************************************/
 
